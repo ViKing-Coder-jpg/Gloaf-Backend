@@ -1,0 +1,27 @@
+{
+  "name": "gloaf-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViKing-Coder-jpg/Gloaf-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ViKing-Coder-jpg/Gloaf-Backend/issues"
+  },
+  "homepage": "https://github.com/ViKing-Coder-jpg/Gloaf-Backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10",
+    "prisma": "^6.18.0"
+  }
+}
